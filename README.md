@@ -5,7 +5,7 @@
 
 - 🔭 An undergraduate majoring in Software Engineering, passionate about crafting the future of technology.
   
-- 🌱 Working on Software Development & Machine Learning research.
+- 🌱 Currently working on **Machine Learning** & **Software Development** & Cybersecurity(previous) research.
   
 - ✨ Deeply curious about all things novel and emerging technologies.
   
