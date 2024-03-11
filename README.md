@@ -1,9 +1,13 @@
-# <center> Hi 👋 I'm Xiyu
-## 🤔 Who am I?
-- 🔭 I’m an undergraduate majoring in Software Engineering, passionate about crafting the future of technology.
-- 🌱 I’m working on Software Development & Machine Learning research.
-- ✨ I'm deeply curious about all things novel and emerging technologies.
+<center># Hi 👋 I'm Xiyu</center>
+
+- 🔭 An undergraduate majoring in Software Engineering, passionate about crafting the future of technology.
+- 
+- 🌱 Working on Software Development & Machine Learning research.
+- 
+- ✨ Deeply curious about all things novel and emerging technologies.
+- 
 - 📫 How to reach me: xiyuliangkk@gmail.com
+- 
 - 😄 Welcome to my blog: https://kohhk.com/
 <!--
 **kkzka-hoh/kkzka-hoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
