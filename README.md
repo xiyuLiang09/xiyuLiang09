@@ -1,5 +1,5 @@
 <h1 align='center' ><font size='70'>Hi 👋 I'm Xiyu</font></h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&random=false&width=435&lines=Hi+there%F0%9F%91%8B+I'm+Xiyu)](https://git.io/typing-svg)
 ## 🙋‍♀️About Me
 
 - 🔭 An undergraduate majoring in Software Engineering, passionate about crafting the future of technology.
