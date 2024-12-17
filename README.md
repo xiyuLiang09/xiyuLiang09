@@ -3,13 +3,13 @@
 
 ## 🙋‍♀️About Me
 
-- 🔭 An undergraduate majoring in Software Engineering.
+- 🔭 An undergraduate majoring in Software Engineering - Network security.
   
-- 🌱 Currently working on **Machine Learning** & **Software Development** & Cybersecurity(previous) research.
+- 🌱 Currently working on **Machine Learning** & **Large Language Models** research.
   
 - 📫 How to reach me: xiyuliangkk@gmail.com
   
-- 😄 Welcome to my blog: https://kohhk.com/
+- 😄 Welcome to my blog: ~~https://kohhk.com/~~ (Sorry, this domain has expired.) 
 <!--
 **kkzka-hoh/kkzka-hoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
